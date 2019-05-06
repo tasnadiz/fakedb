@@ -1,0 +1,28 @@
+{
+    "0x7d5d8": {
+        "prev_owners": [
+            {
+                "name": "Manufacturer",
+                "address": "0x0xeA3F46C50AE211Fe59107321A32aF97F215df566"
+            },
+            {
+                "name": "Owner1",
+                "address": "0x0A2926f2E2C9d60AEBf5Cfe0911FbdeFCE47Db5E"
+            },
+            {
+              "name": "Owner2",
+              "address": "0x65B399c4DD86C4de6c79dC701390D83dC395a159"
+            }
+        ],
+        "current_price": 55
+    },
+    "0x23023": {
+        "prev_owners": [
+            {
+              "name": "Manufacturer",
+              "address": "0x0xeA3F46C50AE211Fe59107321A32aF97F215df566"
+            }
+        ],
+        "current_price": 50
+    }
+}
